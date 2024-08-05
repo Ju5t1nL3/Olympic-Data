@@ -1,0 +1,45 @@
+3x3 Basketball - BK3
+Archery - ARC
+Artistic Gymnastics - GAR
+Artistic Swimming - SWA
+Athletics - ATH
+Badminton - BDM
+Basketball - BKB
+Beach Volleyball - VBV
+Boxing - BOX
+Breaking - BKG
+Canoe Slalom - CSL
+Canoe Sprint - CSP
+Cycling BMX Freestyle - BMF
+Cycling BMX Racing - BMX
+Cycling Mountain Bike - MTB
+Cycling Road - CRD
+Cycling Track - CTR
+Diving - DIV
+Equestrian - EQU
+Fencing - FEN
+Football - FBL
+Golf - GLF
+Handball - HBL
+Hockey - HOC
+Judo - JUD
+Marathon Swimming - OWS
+Modern Pentathlon - MPN
+Rhythmic Gymnastics - GRY
+Rowing - ROW
+Rugby Sevens - RU7
+Sailing - SAL
+Shooting - SHO
+Skateboarding - SKB
+Sport Climbing - CLB
+Surfing - SRF
+Swimming - SWM
+Table Tennis - TTE
+Taekwondo - TKW
+Tennis - TEN
+Trampoline Gymnastics - GTR
+Triathlon - TRI
+Volleyball - VVO
+Water Polo - WPO
+Weightlifting - WLF
+Wrestling - WRE

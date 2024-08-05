@@ -4,7 +4,7 @@ The program allows the user to see formatted olympic data. They can see rankings
 
 ## How to Use
 
-Simply pip install the libraries you don't have, and run the program!
+Simply pip install the libraries you don't have, and run the program! If you want to filter by country or discipline, the 3- letter codes can be found in the txt files attached in this repository.
 
 ### Disclaimer
 
